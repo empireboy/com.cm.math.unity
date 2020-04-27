@@ -1,4 +1,4 @@
-# CM Spawning Unity V0.1.0
+# CM Math Unity V0.1.0
 
 CM Math Unity is a Unity package for additional math functions.
 
